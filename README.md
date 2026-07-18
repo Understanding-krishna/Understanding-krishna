@@ -25,7 +25,7 @@ const krishna = {
     "HackerRank - SQL (Intermediate)",
     "Advanced Excel (Power Query & Pivot Tables) - in progress"
   ],
-  status: "Learning data analysis, no professional experience yet",
+  status: "Learning data analysis, Building hands-on projects in data analysis",
   openTo: "Internship opportunities",
 };
 ```
